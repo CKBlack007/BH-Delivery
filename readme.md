@@ -7,4 +7,4 @@ AuditTimes- copies current record of travel times to rTimeLog. Designed to run p
 CompareTimes-start of function to compare  travel times between hours. a small function that was to be part of a larger program that would alert me to travel time estimate changes which was never completed
 TravelTime-Gets travel time estimates between destinations and applies them to their respective entries in the Engine worksheet
 BookName-makes the workbook filename variable accessible within the workbook
-cleanCalendarCreator
+cleanCalendarCreator- cleans for next use
